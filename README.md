@@ -1,6 +1,6 @@
 # LILA VIZ — Player Journey Visualization
 
-**Live Demo**: https://lila-viz.vercel.app (placeholder — update after deployment)
+**Live Demo**: https://lila-viz-nine.vercel.app
 
 A web-based dashboard for visualizing player telemetry data from **LILA BLACK**. Load parquet match data directly in your browser and analyze player paths, combat zones, loot distribution, and storm dynamics in real-time.
 
@@ -95,7 +95,7 @@ Then:
 
 **Verification**: After deployment, check headers in browser DevTools:
 ```bash
-curl -I https://lila-viz.vercel.app
+curl -I https://lila-viz-nine.vercel.app
 
 # Should show:
 # Cross-Origin-Embedder-Policy: require-corp
