@@ -1,6 +1,6 @@
 # LILA VIZ — Player Journey Visualization
 
-**Live Demo**: https://lila-viz-nine.vercel.app
+**Live Link**: https://lila-viz-nine.vercel.app
 
 A web-based dashboard for visualizing player telemetry data from **LILA BLACK**. Load parquet match data directly in your browser and analyze player paths, combat zones, loot distribution, and storm dynamics in real-time.
 
@@ -220,5 +220,5 @@ Part of the LILA BLACK APM assignment submission. Internal use only.
 
 ---
 
-**Built with ❤️ for level designers and data analysts.**
+
 
